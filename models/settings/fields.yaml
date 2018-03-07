@@ -1,0 +1,9 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    columns:
+        label: Columns
+        type: taglist
+        separator: space
